@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# out/ is partially committed: metrics + report + llm cache are artifacts
+# of record; the bulky per-run audit trail sample stays.
